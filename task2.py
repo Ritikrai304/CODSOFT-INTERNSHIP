@@ -1,7 +1,7 @@
 from tkinter import *
 root = Tk()
 root.geometry("644x600")
-root.title("Calculator by Harshita")
+root.title("Calculator by ritik")
 def click(event):
     global scvalue
     text = event.widget.cget("text")
