@@ -3,7 +3,7 @@ import string
 import random
 root = Tk()
 root.geometry("400x350")
-root.title("Password Generator By Harshita")
+root.title("Password Generator By ritik")
 
 def generator():
     small_alphabets = string.ascii_lowercase
