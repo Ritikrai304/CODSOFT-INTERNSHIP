@@ -4,7 +4,7 @@ import pickle
 import tkinter.simpledialog
 root = Tk()
 root.geometry("655x333")
-root.title("To Do List by harshita")
+root.title("To Do List by ritik")
 def addtask():
     task = entry_task.get()
     if task != "":
