@@ -3,7 +3,7 @@ from PIL import Image,ImageTk
 from random import choice
 
 root = Tk()
-root.title("Rock Paper Scissor Game By Harshita")
+root.title("Rock Paper Scissor Game By ritik")
 root.geometry("1300x500")
 label = Label(root, text="Rock Paper Scissor Game", font = "bold", bg="grey", fg="white")
 label.grid(row=0,column=2)
